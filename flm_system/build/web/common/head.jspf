@@ -1,0 +1,18 @@
+<%-- any content can be specified here e.g.: --%>
+<%@ page pageEncoding="UTF-8" %>
+<link rel="stylesheet" type="text/css" href="<%=request.getContextPath()%>/css/animate.css" />
+<link rel="stylesheet" type="text/css" href="<%=request.getContextPath()%>/css/bootstrap.css" />
+<link rel="stylesheet" type="text/css" href="<%=request.getContextPath()%>/css/bootstrap-select.css" />
+<link rel="stylesheet" type="text/css" href="<%=request.getContextPath()%>/css/font-awesome.css" />
+<link rel="stylesheet" type="text/css" href="<%=request.getContextPath()%>/css/fontello.css" />
+<link rel="stylesheet" type="text/css" href="<%=request.getContextPath()%>/css/jquery.fancybox.css" />
+<link rel="stylesheet" type="text/css" href="<%=request.getContextPath()%>/css/mob_menu.css" />
+<link rel="stylesheet" type="text/css" href="<%=request.getContextPath()%>/css/rev/pe-icon-7-stroke.css" />
+<link rel="stylesheet" type="text/css" href="<%=request.getContextPath()%>/css/rev/font-awesome.min.css" />
+<link rel="stylesheet" type="text/css" href="<%=request.getContextPath()%>/css/rev/settings.css" />
+<link rel="stylesheet" type="text/css" href="<%=request.getContextPath()%>/css/rev/layers.css" />
+<link rel="stylesheet" type="text/css" href="<%=request.getContextPath()%>/css/rev/navigation.css" />
+<link rel="stylesheet" type="text/css" href="<%=request.getContextPath()%>/css/rev/rev_responsive.css" />
+<link rel="stylesheet" type="text/css" href="<%=request.getContextPath()%>/css/reset.css" />
+<link rel="stylesheet" type="text/css" href="<%=request.getContextPath()%>/css/style.css" />
+<link rel="stylesheet" type="text/css" href="<%=request.getContextPath()%>/css/circularCountdown.css" />
